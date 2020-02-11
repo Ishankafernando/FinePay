@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fine Pay</string>
+    <string-array name="Type_Of_Fine">
+        <item>Type Of Fine</item>
+        <item>one</item>
+        <item>two</item>
+    </string-array>
+</resources>
